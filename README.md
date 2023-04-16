@@ -1,2 +1,41 @@
-# 2048-Animated
-Game 2048 using React. Romain Cousin - it's his design. Logic - Ivan Vergiliev. His logic is very easy to follow.
+# 2048 - Animated Edition
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Credits
+
+### Would to give credits to 2 people:
+
+-   Romain Cousin. It's his design. He is a great designer. He was very kind to give us the permission to use his designs for this project. You should go and check out his work at: [https://www.behance.net/romaincousin](https://www.behance.net/romaincousin)
+
+-   Ivan Vergiliev. His logic very easy to follow and was not having any unnecessary complications. Below is the repository where you will find the logic which I have used in this project: [https://github.com/IvanVergiliev/2048-react](https://github.com/IvanVergiliev/2048-react)
